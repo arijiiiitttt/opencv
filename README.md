@@ -1,6 +1,6 @@
 # opencv
 
-Here's a computer vision project idea using OpenCV that you can build:
+Here's a computer vision project 
 
 ### **Project: Virtual Library Book Scanner and Organizer**
 
@@ -50,4 +50,4 @@ Create a computer vision application that can scan book covers from a video feed
 - scikit-learn documentation: https://scikit-learn.org/stable/
 - Tesseract documentation: https://github.com/tesseract-ocr/tesseract
 
-This project will give you hands-on experience with computer vision, machine learning, and data organization, making it a comprehensive and practical application of OpenCV in a real-world scenario.
+
